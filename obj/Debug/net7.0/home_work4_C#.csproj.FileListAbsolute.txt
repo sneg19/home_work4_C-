@@ -1,0 +1,15 @@
+/home/sneg/Documents/home_work4_C#/bin/Debug/net7.0/home_work4_C#
+/home/sneg/Documents/home_work4_C#/bin/Debug/net7.0/home_work4_C#.deps.json
+/home/sneg/Documents/home_work4_C#/bin/Debug/net7.0/home_work4_C#.runtimeconfig.json
+/home/sneg/Documents/home_work4_C#/bin/Debug/net7.0/home_work4_C#.dll
+/home/sneg/Documents/home_work4_C#/bin/Debug/net7.0/home_work4_C#.pdb
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.csproj.AssemblyReference.cache
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.AssemblyInfoInputs.cache
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.AssemblyInfo.cs
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.dll
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/refint/home_work4_C#.dll
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.pdb
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/home_work4_C#.genruntimeconfig.cache
+/home/sneg/Documents/home_work4_C#/obj/Debug/net7.0/ref/home_work4_C#.dll
